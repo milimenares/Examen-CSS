@@ -380,6 +380,10 @@ footer .rrss i:hover {
         width: 30%;
     }
 
+    .producto h4 {
+        font-size: 1.4rem;
+    }
+
     .c-blog {
         width: 47%;
     }
@@ -403,6 +407,10 @@ footer .rrss i:hover {
 
     .producto {
         width: 30%;
+    }
+
+    .producto h4 {
+        font-size: 1.8rem;
     }
 
     .c-blog {
